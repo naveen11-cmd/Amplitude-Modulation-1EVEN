@@ -111,10 +111,6 @@ Calculation
 MODEL GRAPH
  <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
 
- 
- 
-
-
 RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/39ef61c1-5b7c-41a2-ae64-cd834388bc63" />
