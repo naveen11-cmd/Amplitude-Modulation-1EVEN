@@ -100,7 +100,7 @@ Output Waveform
 
 TABULATION:
 
-![WhatsApp Image 2026-04-07 at 11 02 34 AM](https://github.com/user-attachments/assets/de257689-e8e0-4479-b183-ea1d4ca7cc94)
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/e8fe054b-b048-41c6-9b3e-9641e8ca9dc4" />
 
 
 Calculation
@@ -117,4 +117,4 @@ MODEL GRAPH
 
 RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/482dfd27-a2a6-4521-a42d-aebd23456647" />
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/39ef61c1-5b7c-41a2-ae64-cd834388bc63" />
