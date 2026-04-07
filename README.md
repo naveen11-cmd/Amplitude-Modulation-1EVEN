@@ -77,11 +77,11 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 
 Program
 ```
-Am=8.5;
-fm=326;
-Ac=17;
-fc=3260;
-fs=32600;
+Am=9.1;
+fm=346;
+Ac=18.2;
+fc=3460;
+fs=34600;
 t=0:1/fs:3/fm;
 m=Am*cos(2*3.14*fm*t);
 subplot(3,1,1);
